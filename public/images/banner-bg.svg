@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 791" width="1920" height="791">
+	<title>banner-bg-svg</title>
+	<style>
+		.s0 { opacity: .3;fill: #383838 } 
+	</style>
+	<circle id="Layer" class="s0" cx="1625" cy="255" r="50"/>
+	<circle id="Layer" class="s0" cx="992" cy="652" r="50"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m1264 624l188-204 468 371h-445z"/>
+	<circle id="Layer" class="s0" cx="633" cy="753" r="139"/>
+	<circle id="Layer" class="s0" cx="1026.5" cy="74.5" r="262.5"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m125.9 275l269.1 345.9-331.9 258.1-269.1-345.9z"/>
+	<circle id="Layer" class="s0" cx="273" cy="155" r="50"/>
+</svg>
