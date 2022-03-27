@@ -2030,15 +2030,9 @@ padding: 20px;
 box-shadow: inset 0px 0px 10px 2px rgb(0 0 0);
 }
 
-.wpb_wrapper {
-text-align: center;
-}
+.wpb_wrapper {text-align: center;background-color: #ab1921;padding: 30px 30px;border-bottom: 4px solid #fff;}
 
-.wpb_wrapper .vc_custom_heading {
-color: var(--red);
-font-weight: bold;
-text-transform: uppercase;
-}
+.wpb_wrapper .vc_custom_heading {color: var(--white);font-weight: bold;text-transform: uppercase;}
 .tokken-address {
    padding: 60px 0 0;
    display: flex;
