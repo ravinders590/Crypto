@@ -2,6 +2,11 @@ import { Link } from '@material-ui/core'
 import React from 'react'
 
 const Footer = () => {
+
+    const currentYear = new Date().getFullYear();
+    const previousYear = currentYear - 1;
+    
+
   return (
     <>
     <footer className="bg-pattern darkblue ptb-100" style={{backgroundImage:`url('images/wave.png')`}}>
@@ -47,13 +52,13 @@ const Footer = () => {
             <div className="copyright">
                 <div className="row">
                     <div className="col-lg-6">
-                        <p>Copyright GIFX Prime © 2021 - 2022. All Rights Reserved.</p>
+                        <p>Copyright Global Smart Pay Token © {previousYear} - {currentYear}. All Rights Reserved.</p>
                     </div>
                     <div className="col-lg-6">
                         <ul>
                             <li><Link href="#">Terms & Condition</Link></li>
                             <li><Link href="#">Privacy Policy</Link></li>
-                            <li><Link href="https://themes.templatescoder.com/crypton/html/demo/1-1/01-Dark-Theme/contact.html">Contact Us</Link></li>
+                            <li><Link href="#">Contact Us</Link></li>
                         </ul>
                     </div>
                 </div>
