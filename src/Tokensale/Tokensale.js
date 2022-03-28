@@ -8,25 +8,25 @@ const Tokensale = () => {
 			id:1,
 			image:'images/name.png',
 			name:'Name',
-			description:'WTC UNiverse'
+			description:'Global SmartPay Token'
 		},
 		{
 			id:2,
 			image:'images/symbol.png',
 			name:'Symbol',
-			description:'WTCC'
+			description:'GSPT'
 		},
 		{
 			id:3,
 			image:'images/technology.png',
 			name:'Technology',
-			description:'Smart Chain (Bep20)'
+			description:'Smart Chain(BEP20)'
 		},
 		{
 			id:4,
 			image:'images/total.png',
 			name:'Total Supply',
-			description:'21 million (21,000,000)'
+			description:'70Million (70,000,000)'
 		}
 	];
   return (

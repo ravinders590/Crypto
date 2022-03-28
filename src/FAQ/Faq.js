@@ -11,7 +11,6 @@ const Faq = () => {
 						<div className="section-heading text-center pb-65">
 							<label className="sub-heading">Faqs</label>
 							<h2 className="heading-title">Frequently Asked questions</h2>
-							<p className="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
 						</div>
 					</div>
 				</div>
@@ -20,18 +19,6 @@ const Faq = () => {
 						<ul className="nav nav-tab Frequently-tabs pb-55">
 							<li>
 							    <Link className="tab-link active" href="#" data-tab="tab-1">general</Link>
-							</li>
-							<li>
-							    <Link className="tab-link" href="#" data-tab="tab-2">pre-ico & ico</Link>
-							</li>
-							<li>
-							    <Link className="tab-link" href="#" data-tab="tab-3">Tokens</Link>
-							</li>
-							<li>
-							    <Link className="tab-link" href="#" data-tab="tab-4">client</Link>
-							</li>
-							<li>
-							    <Link className="tab-link" href="#" data-tab="tab-5">legal</Link>
 							</li>
 						</ul>
 					</div>
@@ -43,120 +30,34 @@ const Faq = () => {
 						  		<div className="row">
 						  			<div className="col-md-6 pb-65">
 						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Ico Crypto?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
+						  					<Link href="/" className="qus-title">What is Global Smartpay Trade System?</Link>
+						  					<p className="qus-des pt-10">Global SmartPay Trade System is a Binance based Smart Chain System, a Decentralised system, meaning it is not issued or backed by a central authority such as a central bank or government. Instead, cryptocurrencies run across a network of computers to buy/sell as well as monitor all the exchanges.</p>
 						  				</div>
 						  			</div>
 						  			<div className="col-md-6 pb-65">
 						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What cryptocurrencies can I use to purchase? </Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
+						  					<Link href="/" className="qus-title">How Does GSPT Work?</Link>
+						  					<p className="qus-des pt-10">Usually, when you buy cryptocurrencies via an exchange, you purchase the coins themselves. You’ll need to create an exchange account, put up the full value of the asset to open a position, and store the cryptocurrency tokens in your own wallet until you’re ready to sell. GSPT, being an advanced Exchange Trading system, provides the investors with different analytics as well as Expert Advises, to monitor all the exchanges as well as encash great profits from the trade. All you need is a Crypto-trading account and you can start the trading right away</p>
 						  				</div>
 						  			</div>
 						  			<div className="col-md-6 pb-65">
 						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How can I participate in the ICO Token sale?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
+						  					<Link href="/" className="qus-title">What Cryptocurrencies Can I Use To Purchase GSPT Tokens?</Link>
+						  					<p className="qus-des pt-10">Interested investors can use any of the Token available on the BscSCAN to buy/purchase the GSPT Token, as the developers have ensured the ease of cross- currency purchases as well.</p>
 						  				</div>
 						  			</div>
 						  			<div className="col-md-6 pb-65">
 						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How do I benefit from the ICO Token?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  		</div>
-						  	</div>
-						  	<div className="tab-panel" id="tab-2">
-						  		<div className="row">
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How can I participate in the ICO Token sale?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Ico Crypto?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What cryptocurrencies can I use to purchase? </Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  		</div>
-						  	</div>
-						  	<div className="tab-panel" id="tab-3">
-						  		<div className="row">
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How can I participate in the ICO Token sale?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What cryptocurrencies can I use to purchase? </Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Ico Crypto?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  		</div>
-						  	</div>
-						  	<div className="tab-panel" id="tab-4">
-						  		<div className="row">
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How can I participate in the ICO Token sale?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What cryptocurrencies can I use to purchase? </Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How do I benefit from the ICO Token?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Ico Crypto?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  		</div>
-						  	</div>
-						  	<div className="tab-panel" id="tab-5">
-						  		<div className="row">
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What cryptocurrencies can I use to purchase? </Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">How do I benefit from the ICO Token?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-						  				</div>
-						  			</div>
-						  			<div className="col-md-6 pb-65">
-						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Ico Crypto?</Link>
-						  					<p className="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
+						  					<Link href="/" className="qus-title">How Do I Get Benefit From GSPT Token?</Link>
+						  					<p className="qus-des pt-10">Down the line, GSPT will not just only be featuring for the Exchange and Trading purposes, but also, it will facilitate the investors for utility-based exchanges as well. 
+											Some of the upcoming plans for incorporating the GSPT systems are:
+											<ul className='gspt-type'>
+												<li>Exchanges</li>
+												<li>Gaming</li>
+												<li>eCommerce</li>
+												<li>Healthcare</li>
+											</ul>
+											</p>
 						  				</div>
 						  			</div>
 						  		</div>

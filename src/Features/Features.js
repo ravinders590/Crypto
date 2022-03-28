@@ -7,42 +7,28 @@ const Features = () => {
 			image:'images/feature-1.png',
 			name:'Safe & Secure',
 			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
+			description:'Being 18 Decimal hash system, GSPT provides secured platform for Crypto based Forex Trading'
 		},
 		{
 			id:2,
 			image:'images/feature-2.png',
-			name:'Early Bonus',
+			name:'Colossal Community',
 			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
+			description:'Multitude of Features offered by GSPT is making it a best choice for Investors and thus has attracted a colossal community from far-flung regions. So, Come, join and be the part of this massive community.'
 		},
 		{
 			id:3,
 			image:'images/feature-3.png',
 			name:'Univarsal Access',
 			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
+			description:'Being highly secured and user friendly, GSPT allows each and every Crypto investors to	access as well as monitor the on-going Exchanges through BscSCAN'
 		},
 		{
 			id:4,
 			image:'images/feature-4.png',
-			name:'Secure Storage',
+			name:'Secure Storage & Huge Supply',
 			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
-		},
-		{
-			id:5,
-			image:'images/feature-5.png',
-			name:'Low Cost',
-			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
-		},
-		{
-			id:6,
-			image:'images/feature-6.png',
-			name:'Several Profit',
-			link:'/',
-			description:'Lorem ipsum dolor sit amet, consectetur adipi-sicing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor sit amet, labore et.Lorem ipsum dolor sit amet.'
+			description:'Being BEP-20 system, GSPT has a secured Storage System and has 70Million of token supply.'
 		}
 	]
   return (
