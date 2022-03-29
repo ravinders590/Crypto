@@ -33,7 +33,6 @@ const Roadmap = () => {
 						<div className="section-heading text-center pb-65">
 							<label className="sub-heading">roadmap</label>
 							<h2 className="heading-title">The Timeline</h2>
-							<p className="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
 						</div>
 					</div>
 				</div>

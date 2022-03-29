@@ -9,7 +9,7 @@ const Banner = () => {
             <div className="row">
                 <div className="col-lg-6 col-md-6 position-u flex-align wow fadeInLeft">
                     <div className="banner-contain">
-                        <h1 className="banner-heading">Invest In Cryptocoin Way To Trade</h1>
+                        <h1 className="banner-heading">Invest In GSPT The Gateway to The Future</h1>
                         <p className="banner-des">Snap off all your Trade Worries and make the money while you Chill, with the great support and advise of Experienced Crypto Financial Experts of Global SmartPay Trade.</p>
                         <Link href="#" className="btn">Learn more</Link>
                     </div>

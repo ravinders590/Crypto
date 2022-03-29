@@ -19,7 +19,7 @@ const Features = () => {
 		{
 			id:3,
 			image:'images/feature-3.png',
-			name:'Univarsal Access',
+			name:'Universal Access',
 			link:'/',
 			description:'Being highly secured and user friendly, GSPT allows each and every Crypto investors to	access as well as monitor the on-going Exchanges through BscSCAN'
 		},
@@ -38,9 +38,8 @@ const Features = () => {
 				<div className="row">
 					<div className="col-md-12 wow fadeInUp">
 						<div className="section-heading text-center pb-65">
-							<label className="sub-heading">cryptcon Feature</label>
+							<label className="sub-heading">GSPT Feature</label>
 							<h2 className="heading-title">Best Features</h2>
-							<p className="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
 						</div>
 					</div>
 				</div>

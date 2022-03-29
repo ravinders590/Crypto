@@ -7,7 +7,7 @@ const Showfeatures = ({FeatureData}) => {
         {
             FeatureData.map((currElem)=>{
                 const {id,image,name,link,description} = currElem;
-                return  <div className="col-md-4 wow fadeInUp pb-80" key={id}>
+                return  <div className="col-md-3 wow fadeInUp pb-80" key={id}>
                             <div className="feature-box">
                                 <div className="feature-icon">
                                     <img src={image} alt={name} />

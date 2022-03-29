@@ -455,8 +455,8 @@ body, html {
     color: var(--red);
 }
  .subscribe .submit:hover {
-    color: var(--red);
-     background: #3b0799;
+    color: var(--white);
+    background-color: #66120f;
 }
  .copyright p a{
     color: var(--red);
