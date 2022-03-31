@@ -15,7 +15,7 @@ const Menu = () => {
             <Link href="#tokensale-part">Tokenomics</Link>
         </li>
         <li><Link href="#roadmap">Roadmap</Link></li>
-        <li><Link href="#whitepaper">Whitepaper</Link></li>
+        <li><Link href="whitepaper.pdf" target="_blank">Whitepaper</Link></li>
     </ul>
     </>
   )

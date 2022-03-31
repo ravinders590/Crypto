@@ -5,10 +5,9 @@ const ShowRoadMap = ({ShowRoadmapData}) => {
     <>
         {
             ShowRoadmapData.map((currElem)=>{
-                const {id,date,description} = currElem;
+                const {id,description} = currElem;
                 return <div className="roadmap wow fadeInLeft" key={id}>
                     <div className="roadmap-box text-center">
-                        <div className="date-title">{date}</div>
                         <div className="map-graphic">
                             <div className="small-round"><span></span></div>
                             <div className="v-row"></div>

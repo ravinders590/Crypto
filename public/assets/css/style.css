@@ -2108,3 +2108,6 @@ ul.gspt-type li {
     list-style: disc;
     list-style-position: inside;
 }
+.roadmap-detail-box p {
+    font-size: 17px;
+}

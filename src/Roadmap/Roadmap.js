@@ -5,24 +5,33 @@ const Roadmap = () => {
 	const ShowRoadmapData = [
 		{
 			id:1,
-			date:'March 2021',
-			description:'Lorem Ipsum has been the industry/\'s standard dummy text'
+			description:'Starting of Global Smart Pay'
 		},
 		{
 			id:2,
-			date:'April 2021',
-			description:'Lorem Ipsum has been the industry/\'s standard dummy text'
+			description:'Launching Of Gspt - Global Smart Pay Token'
 		},
 		{
 			id:3,
-			date:'May 2021',
-			description:'Lorem Ipsum has been the industry/\'s standard dummy text'
+			description:'Launching Of Staking Program'
 		},
 		{
 			id:4,
-			date:'August 2021',
-			description:'Lorem Ipsum has been the industry/\'s standard dummy text'
+			description:'Listing on Leading Exchanges'
+		},
+		{
+			id:5,
+			description:'Listing on Binance'
+		},
+		{
+			id:6,
+			description:'Launching Of Own Exchange'
+		},
+		{
+			id:7,
+			description:'Future Payment Gateway For Forex Industry'
 		}
+
 	];	
   return (
     <>
