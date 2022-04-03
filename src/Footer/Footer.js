@@ -13,7 +13,7 @@ const Footer = () => {
         <div className='container'>
             <div className="footer">
                 <div className="row">
-                    <div className="col-lg-5 col-md-6">
+                    <div className="col-lg-7 col-md-6">
                         <div className="footer-logo pb-25">
                         <Link href="/"><img src="images/logo.png" alt="Cryptcon" /></Link>
                     </div>
@@ -26,7 +26,7 @@ const Footer = () => {
                             </ul>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6">
+                    <div className="col-lg-4 col-md-6">
                         <div className="footer-link">
                             <ul>
                                 <li><Link href="#about">About</Link></li>
@@ -36,15 +36,6 @@ const Footer = () => {
                                 <li><Link href="#">Whitepaper</Link></li>
                                 <li><Link href="#faq">Faq</Link></li>
                             </ul>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <div className="subscribe">
-                            <div className="form-group">
-                                <label>Subscribe to our Newsleter</label>
-                                <input type="email" className="form-control" placeholder="Enter your email Address" />
-                                <input type="submit" name="submit" value="Subscribe" className="submit" />
-                            </div>
                         </div>
                     </div>
                 </div>
