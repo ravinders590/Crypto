@@ -9,7 +9,7 @@ const Roadmap = () => {
 		},
 		{
 			id:2,
-			description:'Launching Of Gspt - Global Smart Pay Token'
+			description:'Launching Of GSPT - Global Smart Pay Token'
 		},
 		{
 			id:3,
@@ -35,7 +35,7 @@ const Roadmap = () => {
 	];	
   return (
     <>
-    <section className="timeline darkblue ptb-100" id="roadmap">
+    <section className="timeline white-bg ptb-100 bg-style-1" id="roadmap" style={{backgroundImage:`url('images/bg-image.jpg')`}}>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-12 wow fadeInUp">

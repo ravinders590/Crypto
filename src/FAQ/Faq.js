@@ -4,7 +4,7 @@ import React from 'react'
 const Faq = () => {
   return (
     <>
-    <section className="faq-part skyblue pt-100" id='faq'>
+    <section className="faq-part skyblue pt-100 bg-style-1" id='faq' style={{backgroundImage:`url('images/faq-bg.png')`}}>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-12 wow fadeInUp">
@@ -30,8 +30,8 @@ const Faq = () => {
 						  		<div className="row">
 						  			<div className="col-md-6 pb-65">
 						  				<div className="faq-tab">
-						  					<Link href="/" className="qus-title">What is Global Smartpay Trade System?</Link>
-						  					<p className="qus-des pt-10">Global SmartPay Trade System is a Binance based Smart Chain System, a Decentralised system, meaning it is not issued or backed by a central authority such as a central bank or government. Instead, cryptocurrencies run across a network of computers to buy/sell as well as monitor all the exchanges.</p>
+						  					<Link href="/" className="qus-title">What is GSPT?</Link>
+						  					<p className="qus-des pt-10">GSPT is a Binance based Smart Chain System, a Decentralised system, meaning it is not issued or backed by a central authority such as a central bank or government. Instead, cryptocurrencies run across a network of computers to buy/sell as well as monitor all the exchanges.</p>
 						  				</div>
 						  			</div>
 						  			<div className="col-md-6 pb-65">

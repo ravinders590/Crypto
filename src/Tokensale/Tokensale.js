@@ -8,7 +8,7 @@ const Tokensale = () => {
 			id:1,
 			image:'images/name.png',
 			name:'Name',
-			description:'Global SmartPay Token'
+			description:'Global Smart Pay'
 		},
 		{
 			id:2,
@@ -26,13 +26,13 @@ const Tokensale = () => {
 			id:4,
 			image:'images/total.png',
 			name:'Total Supply',
-			description:'70Million (70,000,000)'
+			description:'70 Million'
 		}
 	];
   return (
     <>
-        <section id="tokensale-part" className="token-sale darkblue parallax ptb-100">
-			<div className="container">
+        <section id="tokensale-part" className="token-sale bg-style-1 darkblue parallax ptb-100 bg-overlay" style={{backgroundImage:`url('images/tokenomics.jpg')`}}>
+			<div className="container p-relative">
 			<div className="row">
 				<div className="col-lg-12 col-xs-12">
 					<h2 className="heading-title title text-center mb-4">Tokenomics</h2>

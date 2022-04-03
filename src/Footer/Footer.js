@@ -9,7 +9,7 @@ const Footer = () => {
 
   return (
     <>
-    <footer className="bg-pattern darkblue ptb-100" style={{backgroundImage:`url('images/wave.png')`}}>
+    <footer className="bg-pattern footer-bg ptb-100" style={{backgroundImage:`url('images/wave.png')`}}>
         <div className='container'>
             <div className="footer">
                 <div className="row">
@@ -51,15 +51,8 @@ const Footer = () => {
             </div>
             <div className="copyright">
                 <div className="row">
-                    <div className="col-lg-6">
+                    <div className="col-lg-12 text-center">
                         <p>Copyright Global Smart Pay Token © {previousYear} - {currentYear}. All Rights Reserved.</p>
-                    </div>
-                    <div className="col-lg-6">
-                        <ul>
-                            <li><Link href="#">Terms & Condition</Link></li>
-                            <li><Link href="#">Privacy Policy</Link></li>
-                            <li><Link href="#">Contact Us</Link></li>
-                        </ul>
                     </div>
                 </div>
             </div>

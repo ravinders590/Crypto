@@ -14,7 +14,7 @@ const Features = () => {
 			image:'images/feature-2.png',
 			name:'Colossal Community',
 			link:'/',
-			description:'Multitude of Features offered by GSPT is making it a best choice for Investors and thus has attracted a colossal community from far-flung regions. So, Come, join and be the part of this massive community.'
+			description:'Multitude of Features offered by GSPT is making it a best choice for Investors and thus has attracted a colossal community from far-flung regions. So, Come, Join and be the part of this massive community.'
 		},
 		{
 			id:3,
@@ -33,12 +33,12 @@ const Features = () => {
 	]
   return (
     <>
-        <section className="feature-part skyblue bg-pattern pt-100 pb-10" style={{backgroundImage:`url('images/wave.png')`}} id="features">
+        <section className="feature-part dark-red bg-pattern pt-100 pb-10" style={{backgroundImage:`url('images/wave.png')`}} id="features">
 			<div className="container">
 				<div className="row">
 					<div className="col-md-12 wow fadeInUp">
 						<div className="section-heading text-center pb-65">
-							<label className="sub-heading">GSPT Feature</label>
+							<label className="sub-heading black-color">GSPT Feature</label>
 							<h2 className="heading-title">Best Features</h2>
 						</div>
 					</div>
